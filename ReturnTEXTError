@@ -1,0 +1,4 @@
+public float string
+
+string.name = TEXT
+TEXT = return error("failed to load message", addEventListener(TEXT.string))
