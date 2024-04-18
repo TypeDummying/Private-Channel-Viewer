@@ -1,0 +1,7 @@
+locals == bin(string, LoadString)
+start = {
+ else (return string)
+
+ errorf(print("Failed to load string"))
+ package add(string, toString)
+}
