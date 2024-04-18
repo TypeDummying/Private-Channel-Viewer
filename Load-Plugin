@@ -1,0 +1,8 @@
+Function string(Viewer) {
+ addEventListener()
+
+ if string == true
+  console.log("string : [table = true], loading plugin")
+}
+
+module.exports = Viewer
