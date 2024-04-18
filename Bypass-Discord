@@ -1,0 +1,22 @@
+void char:
+
+bypass event(TEXT.name)
+var="..", basestring, text ".."
+
+LoadString() {
+ while(LoadModules, "discord.modules")
+}
+
+discord.modules = TEXT.modules
+
+// CHANNEL
+void char:
+
+bypass event(TEXT.name)
+var="..", basestring, text ".."
+
+LoadString() {
+ while(LoadModules, "discord.modules")
+}
+
+discord.modules = CHANNEL.modules
